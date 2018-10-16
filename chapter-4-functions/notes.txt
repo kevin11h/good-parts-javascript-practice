@@ -1,0 +1,12 @@
+"Why, every fault's condemn'd ere it be done:
+Mine were the very cipher of a function..."
+
+Measure for Measure
+
+functions
+
++ code reuse
++ information hiding
++ composition
+
+"prototypal inheritance language"

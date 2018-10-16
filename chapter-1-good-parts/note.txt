@@ -1,0 +1,3 @@
++ "first lambda language to go mainstream"
++ "loosely typed" (JS compilers unable to detect type errors)
++ "expressive power"
