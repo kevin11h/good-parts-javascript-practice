@@ -1,0 +1,5 @@
+flag | Meaning
+-----+---------------------------------------------------------------------------------
+  g  | "global (matchmultiple times; the precise meaning of this varies with the method"
+  i  | "insensitive (ignore character case)
+  m  | "Multiline ^ and $ can match line-ending characters)

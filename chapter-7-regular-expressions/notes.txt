@@ -1,0 +1,6 @@
+"A **regular** expression is the specification of the syntax of a simple language"
+
++ search
++ extract
++ replace
+

@@ -1,0 +1,5 @@
+Noncapture (?:
+
+Positive lookahead (?=
+
+Negative lookahead (?!

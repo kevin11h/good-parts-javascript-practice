@@ -1,0 +1,7 @@
+Property     |  Use
+-------------+-------------------------------------------
+  global     |  true if the g flag was used
+  ignoreCase |  true if the i flag was used
+  lastIndex  |  The index at which to start thenext exec match.  Initially it is zero.
+  multiline  |  true if the m flag was used
+  source     |  The source text of the regular expression
