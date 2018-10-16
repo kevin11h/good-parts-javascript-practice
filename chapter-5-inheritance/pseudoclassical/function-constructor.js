@@ -1,0 +1,1 @@
+this.prototype = {constructor: this};
